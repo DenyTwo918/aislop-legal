@@ -1,2 +1,4 @@
-# aislop-legal
-Automated educational short-form video creator that publishes AI-generated content to TikTok.
+# Terms of Service
+This application is a personal content automation tool.
+It uploads video content created by the owner to TikTok.
+No user data is collected. Last updated: May 2026.
